@@ -7,7 +7,11 @@ Run create_playlist.py. It should prompt you for a playlist ID. Select a public 
 
 ![alt text](https://github.com/hannahrjiang/createSpotifyPlaylist/blob/main/Images/link.png "Link")
 
-Choose a playlist name and hit enter. The terminal should tell you which songs were successfully added and which were unable to be discovered, and how many songs were added to the playlist. Go to Spotify, and your new playlist should appear.
+Choose a playlist name and hit enter. The terminal should tell you which songs were successfully added and which were unable to be discovered, and how many songs were added to the playlist. 
+
+![alt text](https://github.com/hannahrjiang/createSpotifyPlaylist/blob/main/Images/songs.png "Terminal View")
+
+Go to Spotify, and your new playlist should appear.
 
 ![alt text](https://github.com/hannahrjiang/createSpotifyPlaylist/blob/main/Images/spotify.png "Spotify View")
 
