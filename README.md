@@ -20,11 +20,11 @@ Go to Spotify, and your new playlist should appear.
 # Running the Project
 Start by downloading spotify.py, youtube.py, create_playlist.py, and .env.
 
-Create a new app on Spotify. Copy the Client ID and Client Secret into their corresponding variables in the .env file. Hit "edit settings" and scroll to "Redirect URIs." Add http://localhost:5000/callback to the list, then hit save. Back in the .env file, set SPOTIFY_USER_ID to your username and SPOTIFY_REDIRECT_URI to http://localhost:5000/callback. See photo below for details.
+Create a new app on Spotify. Copy the Client ID and Client Secret into their corresponding variables in the .env file. Hit "edit settings" and scroll to "Redirect URIs." Add http://localhost:5000/callback to the list, then hit save. See photo below for details.
 
 ![alt text](https://github.com/hannahrjiang/createSpotifyPlaylist/blob/main/Images/spotifyView.png "Spotify View")
 
-For the YOUTUBE_API_KEY, you will need to go to the [credentials page](https://console.cloud.google.com/apis/credentials) in the Youtube API Console. From there, click "create credentials" at the top of the page and select "API Key." Copy the given API key into the corresponding variable in .env.
+Back in the .env file, set SPOTIFY_USER_ID to your username and SPOTIFY_REDIRECT_URI to http://localhost:5000/callback. For the YOUTUBE_API_KEY, you will need to go to the [credentials page](https://console.cloud.google.com/apis/credentials) in the Youtube API Console. From there, click "create credentials" at the top of the page and select "API Key." Copy the given API key into the corresponding variable in .env.
 
 When all the variable in .env are filled, run the following in your terminal:
 ```
