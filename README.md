@@ -4,4 +4,6 @@ While almost everyone is able to create a free YouTube account, not everyone has
 
 # How to use
 Select a public Youtube playlist of songs you would like to add to Spotify. Select the playlist ID, which is located behind the equals sign (=) in the URL.
+
 ![alt text](https://github.com/hannahrjiang/createSpotifyPlaylist/blob/main/Images/link.png "Link")
+
